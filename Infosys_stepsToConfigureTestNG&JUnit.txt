@@ -1,0 +1,23 @@
+1. Junit/TestNG installation:
+ 
+We need not install TestNG or Junit from marketplace since these are preloaded in the eclipse itself.
+ 
+To check if it is loaded or not, please open Eclipse> Windows > Preferences and check if the TestNG is listed or not. I am attaching a image for your reference.
+ 
+Likewise, Maven is also installed in the same eclipse.
+ 
+The instructions on how to create Junit and TestNG is in the attached pdf.
+ 
+Normally we have certain course materials for these installations. I am mentioning below certain course(s), please ask the trainees to take a look in the below courses:
+ 
+Junit: http://ilp02/stream/Course/IVSIS/page/45
+TestNG: http://ilp02/stream/Course/IVSSA/page/9
+ 
+2. VDI Issues:
+ 
+Please use the below mentioned portal to check if VDI issue can be sorted out quickly, if not please call either one of us.
+ 
+http://exam/trpu/#!/vdi_info
+ 
+For few trainees, whose eclipse wasn’t working we have refreshed the VMs so it should work fine now. Please call us for any issue.
+ 
